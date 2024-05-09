@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    font-family: Poppins;
+}
+
+body {
+    background-color: white;
+}
+
+.home--header {
+    background-color: #FF5349;
+    color: white;
+    padding: 20px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home--main > header {    
+    background-color: #FF5349;
+    color: white;
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+.margin {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home--main {
+    /* border: 1px solid black; */
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px; 
+    width: 80vw;
+    max-width: 800px;
+    padding-bottom: 20px;
+    border-color: #FF5349 black black;
+    box-shadow: grey 10px 20px 20px ;
+    
+}
+
+.home--main > main {
+    background-color:#fbdfde;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+footer {
+    background-color: #FF5349;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+.folder--icon {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.home--main--main {  
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.back--button {
+    width: 90px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: #fb3126;
+
+}
+
+.back--button--link {
+    color: white;
+    font-family: Poppins;
+    text-decoration: none;
+}
+
+.semester--header {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.downloadIcon {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    opacity: 50%;
+}
+
+.dark-mode {
+    background-color: rgba(0, 0, 0, 0.889);
+}
+
+.dark-button {
+    background-color: white;
+    border: none;
+    color: #FF5349;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 20px;
+    position: absolute;
+    right: 10px;
+}
+
+.download--link {
+    display: inline-block;
+}
