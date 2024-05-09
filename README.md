@@ -1,8 +1,7 @@
-# React + Vite
+# CollegeStuff.io
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here's a one stop solution for all your college needs. This website has question papers, class notes and practical files.
+This project was built using React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Want to contribute?
+- If you have any study material that you want to upload, send them to shikhar20396.dpskalyanpur@gmail.com.
